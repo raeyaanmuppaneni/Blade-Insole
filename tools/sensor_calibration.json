@@ -1,0 +1,12 @@
+{
+  "Cap 7": {
+    "baseline_pF": 102.91,
+    "points": [
+      {"weight_kg": 28.2,  "current_pF": 104.95},
+      {"weight_kg": 47.55, "current_pF": 105.22},
+      {"weight_kg": 72.9,  "current_pF": 105.58},
+      {"weight_kg": 94.6,  "current_pF": 106.13}
+    ],
+    "source": "Weights applied and read by the user, 2026-09-21, second rigid PCB"
+  }
+}

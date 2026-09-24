@@ -1,0 +1,13 @@
+# Recordings and generated output stay out of the repo: a 20-minute run at
+# 100 Hz is about 15 MB.
+forceplate_*.csv
+*.png
+*.xlsx
+
+# Firmware build output
+*.elf
+*.bin
+*.map
+
+__pycache__/
+*.pyc

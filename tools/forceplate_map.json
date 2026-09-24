@@ -1,0 +1,33 @@
+{
+  "names": [
+    "Cap 7",
+    "Cap 6",
+    "Cap 5",
+    "Cap 4",
+    "Cap 3",
+    "Cap 2",
+    "Cap 1",
+    "Cap 0"
+  ],
+  "raw": [
+    "J1-IN0",
+    "J1-IN1",
+    "J1-IN2",
+    "J1-IN3",
+    "J2-IN0",
+    "J2-IN1",
+    "J2-IN2",
+    "J2-IN3"
+  ],
+  "hidden": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "note": "Labels reversed 2026-09-21 for the second rigid PCB: column 0 (J1-IN0) is Cap 7 ... column 7 (J2-IN3) is Cap 0. 'hidden' is set by the sensor key in the graph window. (First PCB had Caps 0, 3, 4 dead under the old numbering.)",
+  "made": "2026-09-19"
+}
